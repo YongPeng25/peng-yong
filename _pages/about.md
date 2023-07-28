@@ -16,7 +16,7 @@ During October 2016 to September 2017, I visited the Department of Mathematics a
 
 My research utilizes finite difference and spectral element methods for wavefield extrapolation. 
 My primary focus is on tackling challenges in full-waveform inversion, including local minima issues in velocity 
-reconstruction, cross-talk issues in multi-parameter inversion, and performing uncertainty analysis of inversion results.
+reconstruction, cross-talk issues in multi-parameter inversion, and uncertainty analysis of inversion results.
 
 
 ======
