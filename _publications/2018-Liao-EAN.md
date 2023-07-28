@@ -1,7 +1,7 @@
 --
 title: "Efficient and accurate numerical simulation of acoustic wave propagation in a 2D heterogeneous media"
 collection: publications
-permalink: /publication/2018-03-15_Liao_EAN
+permalink: /publication/2018-Liao-EAN
 date: 2018-03-15
 venue: 'Applied Mathematics and Computation'
 # paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0096300317307610'
