@@ -30,6 +30,6 @@ I have worked on the following projects:
    - 2013.09–2014.07
      - Acoustic and elastic wave modeling with SGFD method on discontinuous grids
 
- 
+During my leisure time, I take pleasure in activities such as football, hiking, and cycling. 
 
  
