@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Yong's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Peng Yong"
 description              : &description "personal description"
