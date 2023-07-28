@@ -1,7 +1,7 @@
 ---
 title: "Localized adaptive waveform inversion: theory and numerical verification"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-YONG-LAWI
 excerpt: 'This paper develops an effective method to address the cycle-skipping issue.'
 date: 2022-12-15
 venue: 'Geophysical Journal International'
