@@ -18,7 +18,18 @@ My research utilizes **finite difference** and **spectral element** methods for 
 My primary focus is on tackling challenges in **full-waveform inversion**, including **local minima** issues in velocity 
 reconstruction, **cross-talk** issues in multi-parameter inversion, and **uncertainty analysis** of inversion results.
 
-
+- Research Experience
+   - 2019.10–present
+     - Q estimation by FWI: analysis and method development
+     - Mitigating local minima in FWI using a local matching filter
+     - Parsimonious truncated Newton method for time-domain FWI
+   - 2014.09–2019.07
+     - Application of optimal transport to FWI and LSRTM
+     - Total variation regularization for high-contrast salt body inversion
+     - Elastic RTM using decoupled wave equation and inner product imaging condition
+     - Acoustic and elastic waveform modeling using an optimized SGFD method
+   - 2013.09–2014.07
+     - Acoustic and elastic wave modeling with SGFD method on discontinuous grids
 ======
  
 
