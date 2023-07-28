@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 My name is Peng Yong, a postdoc researcher at [SEISCOPE](https://seiscope2.osug.fr/), Université Grenoble Alpes. 
-My expertise lies in seismic waveform inversion and modeling. I obtained my BSc (2014) and PhD (2019) degrees in 
+My expertise lies in high-resolution seismic imaging. I obtained my BSc (2014) and PhD (2019) degrees in 
 exploration geophysics from [China University of Petroleum (East China)](https://www.upc.edu.cn/). 
 During October 2016 to September 2017, I visited the Department of Mathematics and Statistics at the 
 [University of Calgary](https://www.ucalgary.ca/).
