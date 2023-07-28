@@ -18,7 +18,7 @@ My research utilizes **finite difference** and **spectral element** methods for 
 My primary focus is on tackling challenges in **full-waveform inversion**, including **local minima** issues in velocity 
 reconstruction, **cross-talk** issues in multi-parameter inversion, and **uncertainty analysis** of inversion results.
 
-- Research Experience
+## Research Experience
    - 2019.10–present
      - Q estimation by FWI: analysis and method development
      - Mitigating local minima in FWI using a local matching filter
