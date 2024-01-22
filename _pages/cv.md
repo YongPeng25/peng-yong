@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Exploration Geophysics, China University of Petroleum (East China), 2010-2014
+* Ph.D in Exploration Geophysics, China University of Petroleum (East China), 2014-2019
+* Visiting Ph.D in Applied Mathematics, University of Calgary, 2016-2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.10-2024.01: Young researcher
+  * Université Grenoble Alpes
+  * SEISCOPE, ISTerre
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.10-2021.09: Postdoc 
+  * Université Grenoble Alpes
+  * SEISCOPE, ISTerre
   
-Skills
+Computer Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++, Fortran, MATLAB, Julia, Python
+* CUDA-C, MPI, OpenMP
+* Madagascar, Seismic Unix
+* Latex, Git, Linux
 
-Publications
+Membership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Society of Exploration Geophysicists  
+
+* European Association of Geophysicists and Engineers
+
+* Chinese Geophysical Society 
+ 
+Journal Referee Activity
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Topic editor for Seismic Full-Waveform Inversion for High-Resolution Subsurface
+Imaging in Frontiers in Earth Science
+
+* Geophysics, Geophysical Journal International, Geophysical Prospecting, IEEE TGRS,
+Inverse Problems, Surveys in Geophysics, Seismological Research Letters, Waves in
+Random and Complex Media, Computers and Geosciences, Computational Geosciences,
+Chinese Journal of Geophysics
