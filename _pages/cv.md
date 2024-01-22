@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Exploration Geophysics, China University of Petroleum (East China), 2010-2014
-* Ph.D in Exploration Geophysics, China University of Petroleum (East China), 2014-2019
-* Visiting Ph.D in Applied Mathematics, University of Calgary, 2016-2017
-
 Work experience
 ======
 * 2021.10-2024.01: Young researcher
@@ -24,6 +18,12 @@ Work experience
 * 2019.10-2021.09: Postdoc 
   * Université Grenoble Alpes
   * SEISCOPE, ISTerre
+
+Education
+======
+* B.S. in Exploration Geophysics, China University of Petroleum (East China), 2010-2014
+* Ph.D in Exploration Geophysics, China University of Petroleum (East China), 2014-2019
+* Visiting Ph.D in Applied Mathematics, University of Calgary, 2016-2017
   
 Computer Skills
 ======
@@ -35,9 +35,7 @@ Computer Skills
 Membership
 ======
 * Society of Exploration Geophysicists  
-
 * European Association of Geophysicists and Engineers
-
 * Chinese Geophysical Society 
  
 Journal Referee Activity
