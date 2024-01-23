@@ -11,11 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* 2021.10-2024.01: Young researcher
-  * Université Grenoble Alpes
-  * SEISCOPE, ISTerre
-
-* 2019.10-2021.09: Postdoc 
+* 2019.10-2024.01: Postdoc 
   * Université Grenoble Alpes
   * SEISCOPE, ISTerre
 
