@@ -11,9 +11,12 @@ redirect_from:
 
 Work experience
 ======
+* 2024.03-now: Associate professor 
+  * Institute of Acoustics, Chinese Academy of Sciences
+  * Beijing, China
 * 2019.10-2024.01: Postdoc 
-  * Université Grenoble Alpes
-  * SEISCOPE, ISTerre
+  * SEISCOPE, Université Grenoble Alpes
+  * Grenoble, France
 
 Education
 ======
@@ -30,15 +33,13 @@ Computer Skills
 
 Membership
 ======
-* Society of Exploration Geophysicists  
+* Acoustical Society of China
+* Chinese Geophysical Society
 * European Association of Geophysicists and Engineers
-* Chinese Geophysical Society 
+* Society of Exploration Geophysicists
  
 Journal Referee Activity
 ======
-* Topic editor for Seismic Full-Waveform Inversion for High-Resolution Subsurface
-Imaging in Frontiers in Earth Science
-
 * Geophysics, Geophysical Journal International, Geophysical Prospecting, IEEE TGRS,
 Inverse Problems, Surveys in Geophysics, Seismological Research Letters, Waves in
 Random and Complex Media, Computers and Geosciences, Computational Geosciences,
